@@ -1,3 +1,5 @@
 raw_data/
 .env
 data/*
+*.csv
+notebooks/.ipynb_checkpoints
